@@ -7,6 +7,6 @@
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I'm 0.5% Madagascarian!
 
-![Weiqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiqimei&show_icons=true&theme=gradient) 
+![Weiqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiqimei&show_icons=true&theme=radical) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weiqimei&layout=compact)](https://github.com/weiqimei/github-readme-stats)
